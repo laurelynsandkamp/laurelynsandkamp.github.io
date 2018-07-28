@@ -1,2 +1,4 @@
 name: Laurelyn Sandkamp
 markdown: kramdown
+plugins:
+  - jekyll-sitemap
